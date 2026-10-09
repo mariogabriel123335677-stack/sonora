@@ -1,0 +1,1 @@
+# SONORA usa apenas a biblioteca padrão do Python; nenhuma dependência externa.
